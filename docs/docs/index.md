@@ -58,7 +58,7 @@ With this in mind, we've created a data science cookiecutter template for projec
 
 ### Requirements
 
- - Python 2.7 or 3.5
+ - Python 3.5
  - [cookiecutter Python package](http://cookiecutter.readthedocs.org/en/latest/installation.html) >= 1.4.0: `pip install cookiecutter`
 
 
@@ -67,9 +67,10 @@ With this in mind, we've created a data science cookiecutter template for projec
 Starting a new project is as easy as running this command at the command line. No need to create a directory first, the cookiecutter will do it for you.
 
 ```nohighlight
-cookiecutter https://github.com/drivendata/cookiecutter-data-science
+cookiecutter https://github.com/lobrien/cookiecutter-data-science-azure-machine-learning
 ```
 
+TODO: edits
 ### Example
 
 <script id="asciicast-244658" src="https://asciinema.org/a/244658.js" async></script>
